@@ -1,0 +1,447 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Build a Personal Portfolio Webpage</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rye&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    
+  </head>
+  <body>
+  <header>
+    <!-- <div class="my-name"><div> -->
+              <!-- https://i.postimg.cc/dQdwcvX0/Capture-d-cran-642-removebg-preview.png -->
+    <img id="logo" src="https://i.postimg.cc/LsTgTLtr/Logo-Gineston-Web-dev.png" alt="Gineston Logo" />
+      
+    <!-- <a id="my-name" href="#">Gineston.</a> -->
+    <nav id="navbar-1">
+      <li><a id="my-work" href="#"></a>My Work</li>
+      <li><a id="about" href="#"></a>About-me</li>
+      <li><a id="contact" href="#"></a>Contact</li>
+    </nav>
+  </header>
+    <section id="welcome-section">
+      <h1 class="nada">.</h1>
+      <div class="profil">
+        <!-- <div role="img" aria-label="Gineston Cartoonized" class="left"> -->
+
+
+
+          <img id="profil-img" src="https://i.postimg.cc/nM8vV8gB/supawork-image-20250217-T164141846-Z-png-Nero-AI-Anime.jpg" alt="Gineston Cartoonized" />
+        <!-- </div> -->
+        <div class="right">
+          <h1 class="job-desc">Welcome to my universe !<Br /><Br />
+
+Hi, I'm Gineston, an up-and-coming web developer with a passion for manga. Here you can find out about my projects, my skills and my daily quest to combine code, creativity and fun. Are you ready for adventure?<Br /></h1>
+        </div>
+      </div>
+    </section>
+    <section id="projects">
+      <div class="project-tile"></div>
+      <a></a>
+    </section>
+    <navbar id="navbar">
+      <li><a id="profile-link" target ="_blank" href="#"></a></li>
+      <li><a href="#"></a></li>
+      <li><a href="#"></a></li>
+    </navbar>
+    <div class="achieve">
+      <div class="flexbox">
+        <img class="icon-size" src="https://cdn-icons-png.flaticon.com/512/9188/9188042.png" />
+        <div><p>I've worked on over <span class="bold">10</span> projects now. <div class="note"><span class="bold">Note: </span>I'm still in the early stages, which is why there aren't many projects yet. But don't worry, it'll get better over time.</div></p></div>
+      </div>
+      <!-- <div class="flexbox">
+        <img class="icon-size" src="https://cdn-icons-png.flaticon.com/512/8743/8743903.png" />
+        <p>test de texte</p>
+      </div>
+      <div class="flexbox">
+        <img class="icon-size" src="https://cdn-icons-png.flaticon.com/512/1086/1086581.png" />
+        <p>test de texte</p>
+      </div> -->
+      <div class="flexbox">
+        <img class="icon-size" src="https://cdn-icons-png.flaticon.com/512/10579/10579848.png" />
+        <p>I'm a real go-getter when it comes to my work. You might be wondering why. Well, it's because I want to gain as much experience as possible so I can deliver the best to my future clients.</p>
+      </div>
+    </div>
+    <div class="intro-project"><h1 class="intro-project-h1 bold">Here are some of the projects I've already worked on....</h1></div>
+  <div class="my-works">
+    <div class="test-div">
+      <div class="proj-prev" id="proj-dev1">
+      </div>
+      <div><a href="https://unit-converter-gino-scrimba.netlify.app/" class="proj-desc" target="_blank">Unit-Converter</a></div>
+    </div>
+    <div class="test-div">
+      <div class="proj-prev" id="proj-dev2">
+      </div>
+      <div class="div-proj-desc"><a href="https://bdayitachi.netlify.app/"  class="proj-desc" target="_blank">Bday Itachi</a></div>
+      </a>
+    </div>     
+    <div class="test-div">
+      <div class="proj-prev" id="proj-dev3">
+      </div>
+      <div><a href="https://blackjack-scrimb.netlify.app/" class="proj-desc" target="_blank">Blackjack Scrimba</a></div>
+    </div>     
+    <div class="test-div">
+      <div class="proj-prev" id="proj-dev4">
+      </div>
+      <div><a href="https://my-home-town-benin.netlify.app/" class="proj-desc" target="_blank">My home town benin</a></div>
+    </div>     
+    <div class="test-div">
+      <div class="proj-prev" id="proj-dev5">
+      </div>
+      <div><a href="https://password-gen-gino-scrimba.netlify.app/" class="proj-desc" target="_blank">Password-Gen</a></div>
+    </div>   
+    <div class="test-div">
+      <div class="proj-prev" id="proj-dev6">
+      </div>
+      <div><a href="https://basketball-scoreboard-gino-scrimba.netlify.app/" class="proj-desc" target="_blank">Basketball scoreboard Scrimba</a></div>
+    </div>     
+<div class="test-div">
+      <div class="proj-prev" id="proj-dev7">
+      </div>
+      <div><a href="https://nft-card-gino-project-frontend-mentor.netlify.app/" class="proj-desc" target="_blank">NFT card frontend-mentor</a></div>
+    </div>     
+
+    <div class="test-div">
+      <div class="proj-prev" id="proj-dev8">
+      </div>
+      <div><a href="https://simple-counter-app-gino-scrimba.netlify.app/" class="proj-desc" target="_blank">Simple Counter App</a></div>
+    </div>     
+    
+    <div class="test-div">
+      <div class="proj-prev" id="proj-dev9">
+      </div>
+      <div><a href="https://fake-landing-page-gino-freecodecamp.netlify.app/" class="proj-desc" target="_blank">Fake Landing Page</a></div>
+    </div>
+  </div>
+  <div class="divider"></div>
+  <footer>
+    <div class="text-footer">
+      <p>Do you have a project in mind?
+Whether it's for an innovative collaboration or just to discuss your wildest ideas (yes, even the ones that sound like they came out of a science fiction film!), I'm here to discuss them. Don't hesitate to contact me now!</p>
+    </div>
+    <img src="https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/freepik__the-style-is-candid-image-photography-with-natural__48105_left-removebg-preview.png?raw=true" class="image-footer" />
+  </footer>
+  </body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+#navbar {
+  position: fixed;
+  top: 0px;
+  width:100%;
+
+}
+
+@media {
+
+}
+
+body, html {
+  margin:0;
+  padding:0;
+  width:100%;
+  list-style-type:none;
+  font-weight:normal;
+  font-family: "Space Mono", cursive, serif;
+
+}
+
+#welcome-section {
+  margin:0;
+  padding:0;  
+  width:100%;
+
+}
+.nada {
+  color:white;
+  height:0;
+  margin:0;
+  padding:0;  
+}
+.profil {
+  display:flex;
+  right:0;
+  width:100%;
+  left:0;
+  padding-top:100px;
+  /* margin-top:-150px; */
+}
+.right {
+  width:100%;
+  background: linear-gradient(to bottom, #d87829 0%,#dd8645 20%,#e2945d 30%,#e7a272 40%,#ebaf87 45%, #f3caaf 55%, #f3caaf 65%, #f6d7c3 75%, #fae4d7 80%, #fcf2eb 90%);
+  /* margin-top:-40px; */
+
+}
+.left {
+  width:60%;
+  /* margin-top:-100px; */
+}
+header {
+  display:flex;
+  width:100%;
+  height:100px;
+  position:fixed;
+  top:0;
+  background-color:#0b2732;
+}
+
+#navbar-1 {
+  display:flex;
+  column-gap:20px;
+  height:100%;
+  width:100%;
+  background: linear-gradient(to left, #d87829 0%, #3a7893 80%);
+  /* border-bottom:1px gray solid; */
+  /* box-shadow: 0px 0px 40px 0px #000000; */
+  box-shadow: -2px 17px 24px -7px rgba(0,0,0,0.75);
+  justify-content:flex-end;
+  font-weight:bolder;
+}
+#my-name {
+  width:20%;
+  height:100px;
+  display:flex;
+  justify-content:center;
+  background-color:#3a7893;
+  text-decoration:none;
+  align-items:center;
+  color:#d87829;
+  font-size:26px;
+  font-weight:bolder;
+  box-shadow: -2px 17px 24px -7px rgba(0,0,0,0.75);
+  /* font-family: "Space Mono", cursive, serif; */
+  /* font-family: "Fiddums Family Regular"; */
+  font-family: "Rye", serif;
+
+
+
+}
+
+li {
+  display:flex;
+  margin-right:70px;
+  align-items:center;
+  font-size:18px; 
+}
+
+.job-desc{
+  display:flex;
+  margin-top:50%;
+  text-align:center;
+  align-items:center;
+  justify-content:center;
+  font-size:18px; 
+
+
+
+}
+
+.achieve {
+  display:flex;
+  width:100%;
+  height:180px;
+  background-color:#d7d7d7;
+  align-items:center;
+  
+}
+
+.flexbox {
+  width:50%;
+  display:flex;
+  align-items:center;
+
+}
+
+.icon-size {
+  width:90px;
+  height:90px;
+  margin: 0 40px;
+}
+
+.note {
+  font-size:14px;
+}
+
+.bold {
+  font-weight:bold;
+}
+
+.intro-project {
+  width:100%;
+  height:90px;
+  text-align:center;
+  background-color:#d87829;
+  color:black;
+}
+
+.intro-project-h1 {
+  margin:0;
+  align-items:center;
+  padding-top:20px;
+}
+
+.my-works {
+  padding-top:50px;
+  display:flex;
+  flex-wrap:wrap;
+  column-gap:25px;
+  justify-content:center;
+  width:100%;
+  height: 1700px;
+  background-color:#cacaca;
+}
+
+.test-div {
+  /* background-color:#4d4d4d; */
+  height:400px;
+  width:400px;
+
+}
+
+.test-div:hover {
+  box-shadow: 12px 20px 24px 4px #3a7893;
+  transition-duration: 0.6s;
+}
+.proj-desc {
+  height:100px;
+  width:100%;
+  /* background-color:#4d4d4d; */
+  background-color:#3a7893;
+
+  display:flex;
+  justify-content:center;
+  margin-left:auto;
+  margin-right:auto;
+  align-items:center;
+  color:white;
+  font-weight:bold;
+  text-decoration:none;
+}
+
+.proj-prev {
+  height:80%;
+  width:100%;
+  /* background-color:rgb(67, 216, 230); */
+}
+
+#proj-dev1 {
+
+    background:url("https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/Unit-Converter%20netlify.app%201.jpg?raw=true");
+      background-size:cover;
+}
+
+
+#proj-dev2 {
+background:url("https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/Bday%20Itachi%20netlify.app.jpg?raw=true");
+      background-size:cover;
+
+}
+
+
+#proj-dev3 {
+
+background:url("https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/Blackjack%20Scrimba%20netlify.app.jpg?raw=true");
+background-size:cover;
+/* background-size: contain;
+background-repeat: no-repeat;
+background-color:#00773a; */
+}
+
+
+#proj-dev4 {
+
+background:url("https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/My%20home%20Town%20netlify.app.jpg?raw=true");
+background-size:cover;
+/* background-size: contain;
+background-repeat: no-repeat;
+background-color:white; */
+
+}
+
+#proj-dev5 {
+
+background:url("https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/Password-Gen%20netlify.app.jpg?raw=true");
+background-size:cover;
+
+/* background-size: contain;
+background-repeat: no-repeat;
+background-color:white; */
+
+}
+
+#proj-dev6 {
+
+background:url("https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/Basketball%20scoreboard%20Scrimba%20netlify.app.jpg?raw=true");
+background-size:cover;
+
+}
+
+#proj-dev7 {
+
+background:url("https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/NFT%20Card%20FrontendMentor%20netlify.app.jpg?raw=true");
+background-size:cover;
+
+
+}
+
+#proj-dev8 {
+
+background:url("https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/Simple%20Counter%20App%20netlify.app.jpg?raw=true");
+background-size:contain;
+
+
+}
+
+#proj-dev9 {
+
+background:url("https://github.com/Ryuzaki005/Preview-Rogn-/blob/main/Landing%20Page%20netlify.app.jpg?raw=true");
+background-size:cover;
+
+}
+
+
+.logo {
+    width:20%;
+    height:100px;
+    transform: scale(2);
+    box-shadow: -2px 17px 24px -7px rgba(0,0,0,0.75);
+}
+
+footer {
+  width:100%;
+  height: 400px;
+  background-color:#3a7893;
+  display:flex;
+  bottom:0;
+  margin-bottom:0;
+  justify-content:space-between; 
+  text-align:center;
+  align-items:center;
+  color:whitesmoke;
+  font-weight:bold;
+  font-size:20px;
+}
+
+.text-footer {
+  margin-left:50px;
+}
+
+.image-footer {
+  display:flex;
+  height:100%;
+}
+
+
+** end of undefined **
+
